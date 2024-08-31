@@ -1,0 +1,3 @@
+class GIF {
+  String? url;
+}
